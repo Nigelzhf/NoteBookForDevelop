@@ -1,7 +1,7 @@
 # tornado
 
 * [Tornado 官方文档](http://www.tornadoweb.cn/documentation#)
-
+    - 重要的部分基本涉及
 * [Tornado book](http://demo.pythoner.com/itt2zh/index.html)
 
 * [Github reg](https://github.com/tornadoweb/tornado)
