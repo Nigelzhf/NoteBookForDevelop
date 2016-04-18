@@ -17,3 +17,4 @@ repr() str()  生成解释器可读   生成人易读
 	实例变量 在 __init__(self)中定义 	-一个实例访问
 
 # [PEP8 Python 编码规范整理](https://www.douban.com/note/134971609/)
+	[编码结构](http://python.jobbole.com/84618/)
