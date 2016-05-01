@@ -1,5 +1,5 @@
 # scss语法
-
+[scss github](https://github.com/ZouStrong/CSS3-Sass-Note)
 ```
 文件后缀名
 

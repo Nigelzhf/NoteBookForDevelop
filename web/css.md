@@ -1,12 +1,45 @@
 [css组件库](http://www.uibox.in/)
 
-
 [**菜鸟教程css**](http://www.runoob.com/css/css-positioning.html)
 
 [**CSS 实例**](http://www.runoob.com/css/css-examples.html)
 
 [html css 入门](http://edu.51cto.com/index.php?do=lession&id=55960)
+
 [html5/css3响应式布局介绍及设计流程](http://www.51xuediannao.com/html+css/htmlcssjq/694.html)
+
+# CSS文档结构
+  - 一般样式
+    * 主体样式
+    * reset样式
+    * 链接
+    * 标题
+    * 其他元素
+  - 辅助样式
+    * 表单
+    * 通知和错误
+    * 一致的条目
+  - 页面结构
+    * 标题 页脚 导航
+    * 布局
+    * 其他页面结构元素
+  - 页面组件
+    * 各个页面
+  - 覆盖
+
+```
+/* @group general styles  */
+/* @group helper styles   */
+/* @group page structure  */
+/* @group page components */
+/* @group overrides       */
+```
+
+```
+@todo
+@workaround:
+@bugfix
+```
 
 # css基本语法
 ## 选择器
@@ -93,16 +126,16 @@
     - static
         + HTML元素的默认值，即没有定位，元素出现在正常的流中
         + 静态定位的元素不会受到top, bottom, left, right影响
-    - fixed
+    - fixed **固定定位**
         + 元素的位置相对于浏览器窗口是固定位置
         + Fixed定位使元素的位置与文档流无关，因此不占据空间
         + Fixed定位的元素和其他元素重叠
     - relative
-        + 相对定位元素的定位是相对其正常位置
+        + **相对定位** 元素的定位是相对其正常位置
         + 可以移动的相对定位元素的内容和相互重叠的元素，它原本所占的空间不会改变
         + 相对定位元素经常被用来作为绝对定位元素的容器块
     - absolute
-        + 绝对定位的元素的位置相对于最近的已定位父元素，如果元素没有已定位的父元素，那么它的位置相对于<html>
+        + **绝对定位** 的元素的位置相对于最近的已定位父元素，如果元素没有已定位的父元素，那么它的位置相对于<html>
         + Absolutely定位使元素的位置与文档流无关，因此不占据空间。
         + Absolutely定位的元素和其他元素重叠
     - 重叠的元素
@@ -113,7 +146,7 @@
     - left
     - right
     - clear
-
+* overflow 默认内容溢出到框外
 * 块元素水平对齐布局
     + 中心对齐,使用margin属性
         ```
