@@ -1,4 +1,9 @@
 [html css js组件库](http://www.uibox.in/)
+
+[比较全的资料汇总](http://blog.csdn.net/hguisu/article/details/50392944)
+
+[java网络编程视频](http://www.java1234.com/javaxuexiluxiantu.html)
+
 [uibox 组件库](http://www.uibox.in/tag/bootstrap)
 
 [bootstrap ui组件库](http://bootflat.github.io/) 
