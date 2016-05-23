@@ -1,5 +1,9 @@
 [前端知识体系](http://my.oschina.net/hxwny/blog/499513)
 
+[前端学习](https://github.com/qiu-deqing/FE-learning)
+
+[前端资源](https://github.com/JacksonTian/fks)
+
 [bootstrap](http://www.zhihu.com/question/37946473/answer/93067448)
 
 [adminlte bootstrap](https://www.almsaeedstudio.com/themes/AdminLTE/documentation/index.html)
