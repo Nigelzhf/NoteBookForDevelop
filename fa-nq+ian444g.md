@@ -1,15 +1,20 @@
+http://51.ruyo.net/shadowsocks/
+
 SwitchyOmega
 	https://github.com/FelisCatus/SwitchyOmega/releases
 
 shadowsocks：
+	http://www.pilivpn.com/user/register.php
+		erfnilnl@sina.com
+		wefp9841a
 	http://speedmm.xyz/code.php
-		awefasdfewasf
+		aw895wevvlkijjxdfwe
 		aaaaaaaa
-	http://ss.iso369.com/shadowsocks.html#free
-	http://www.vpnuk.cn/list.html
-		aaaaaaaaaaaaaaaa@sina.com		
-		aaaaaaaa
-
+	http://yoooooooo.xyz/invite
+		wefAdf45ef@qq.com
+		asdfe98516e
+	http://51.ruyo.net/shadowsocks/	
+	
 [壁虎漫步](http://www.liu16.com/post/524.html)
 
 
