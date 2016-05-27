@@ -4,6 +4,24 @@ SwitchyOmega
 	https://github.com/FelisCatus/SwitchyOmega/releases
 
 shadowsocks：
+
+	http://freeshadowsocks.cf
+	http://blog.fazero.cc/ss
+	http://xknow.net/shadowsocks/
+	http://banjx.com/reg.php
+	http://www.ishadowsocks.net
+	https://lvii.gitbooks.io/outman/content/ss.windows.html
+	http://www.jianshu.com/p/ae72362c49a1
+	http://www.jubushoushen.com/1486.html
+	http://www.uudaili.org/free.html
+	http://ss.dt27.org/code
+	https://github.com/sxyx2008/DevArticles
+	http://ss.liangcuntu.com/index.php
+	测试ss方法 http://bindog.github.io/blog/2014/09/06/shadowsocks-account/
+	多个ss网站 http://bbs.feng.com/read-htm-tid-10274933.html
+	ss搭建 http://dvel.cc/shadowsocks-proxifier-fuck-gfw
+
+
 	http://www.pilivpn.com/user/register.php
 		erfnilnl@sina.com
 		wefp9841a
@@ -16,6 +34,23 @@ shadowsocks：
 	http://51.ruyo.net/shadowsocks/	
 	
 [壁虎漫步](http://www.liu16.com/post/524.html)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 镜像：
