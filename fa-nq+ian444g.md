@@ -3,6 +3,8 @@ http://51.ruyo.net/shadowsocks/
 SwitchyOmega
 	https://github.com/FelisCatus/SwitchyOmega/releases
 
+[科学上网 ss各种配置方法](http://www.jianshu.com/notebooks/1387861/latest)
+
 shadowsocks：
 
 	http://freeshadowsocks.cf
