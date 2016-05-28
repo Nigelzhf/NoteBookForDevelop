@@ -10,6 +10,7 @@ shadowsocks：
 	http://freeshadowsocks.cf
 	http://blog.fazero.cc/ss
 	http://xknow.net/shadowsocks/
+	http://www.dou-bi.com/sszhfx/
 	http://banjx.com/reg.php
 	http://www.ishadowsocks.net
 	https://lvii.gitbooks.io/outman/content/ss.windows.html
