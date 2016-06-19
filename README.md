@@ -26,3 +26,5 @@
 
 # java
 
+# mac系统安装（靠谱）
+  [mac安装靠谱](http://www.ui.cn/detail/36071.html)

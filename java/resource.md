@@ -1,3 +1,4 @@
+[java 设计模式](https://github.com/iluwatar/java-design-patterns)
 [java入门项目-图书管理系统](https://github.com/zhanglei-workspace/shopping-management-system)
 
 [stackoverflow上Java相关、投票数TOP100的问答](https://github.com/giantray/stackoverflow-java-top-qa)
