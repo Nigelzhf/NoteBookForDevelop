@@ -86,6 +86,7 @@ class TC extends SuperClass {
 }
 abstract class AbstractClass {
   ...//abstract class 不可以实例化
+  //有抽象方法，一定是抽象类，一定用abstract修饰类
 }
 ```
 
@@ -108,6 +109,12 @@ abstract class AbstractClass {
 
 ```
 interface SuperInterface {
+  final static int a=0; // 静态常量，永远不可变
+
+  // 有无public abstract修饰效果等效
+	int a();
+	public abstract int b();
+
   ...
 }
 interface SubInterface extends SuperInterface {
@@ -152,4 +159,51 @@ try{
 }finally{
     // 程序代码 不管怎样都会执行
 }
+```
+
+## this super
+
+```
+class A {
+	int i;
+
+	public int a() {
+		return 0;
+	}
+	public A(){}
+	public A(int a){
+		this();
+		this.i = a;
+	}
+}
+
+public class Test1 extends A {
+	int i;
+	int a;
+	int b;
+
+	public Test1() {
+		super(10); // 调用父类构造方法，且必须是构造方法的第一个语句
+	}
+
+	public Test1(int a) {
+		this();
+		this.a = a; // this 指代当前对象
+	}
+
+	public Test1(int a, int b) {
+		this(a); // this(参数),引用重载方法
+		this.b = b;
+	}
+
+	public int a() {
+		super.a(); // 调用父类中同名方法
+		this.i = super.i; // 调用父类同名变量
+		return 0;
+	}
+}
+
+
+// this.域变量 this.成员方法：在容易混淆的场合，用this指代当前对象
+// 子类必定调用父类的构造方法
 ```
