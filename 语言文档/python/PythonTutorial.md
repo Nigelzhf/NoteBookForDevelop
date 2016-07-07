@@ -1,6 +1,14 @@
 # import 
 	包导入 当一个模块运行时，此模块自动加入sys.path
+# from . import *
+	将. 中的库导入，不需要model.fun，直接fun即可调用
 # 循环技巧
+
+# python的数据结构 
+	* 元组 ()
+	* tuple []
+	* set	{}
+	* 字典	{'a':'b',}
 
 # 输入和输出
 print() print(line, end='')
