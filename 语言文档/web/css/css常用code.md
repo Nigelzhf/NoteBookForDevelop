@@ -4,11 +4,13 @@
 ## 页面中水平局中
 
     ```
+	block元素：
     .center {
         width: 85%;
         margin: 0 auto;
     }
-
+	
+	inline元素：
     .center2 {
         text-align: center;
     }
